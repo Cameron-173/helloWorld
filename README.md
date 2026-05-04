@@ -9,3 +9,6 @@ Current Programming Languages Supported:
 - Rust
 - JavaScript
 - Brainf*ck
+- Go
+- Java
+- Zig
